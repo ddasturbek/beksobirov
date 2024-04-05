@@ -1,4 +1,4 @@
-- Hi, I’m @dasturbek👋
-- My name is Og'abek.
-- I'm a sociable person! I get on very well with people.
+- Hi, I’m Og'abek 👋
+- I'm an IT teacher, also am a programmer!
+- IT, NLP, ML, AI, DS ... are my areas of interest.
 - Sport is fun. I like play sports and watch movies.
