@@ -2,5 +2,5 @@
 - I'm an IT teacher, also am a programmer!
 - IT, NLP, ML, AI, DS ... are my areas of interest.
 - Sport is fun. I like play sports and watch movies.
-- My page at work and my telegram.
+- My page at [work]{https://urdu.uz/en/site/viewdep?id=1780} and my telegram.
 - My motto: Always keep moving and everything will be fine 👍
